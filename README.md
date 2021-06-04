@@ -1,3 +1,1 @@
-Reveal-app packaged in SQLite.
-
-See <https://github.com/patarapolw/reveal-app>.
+Reveal.js packaged in SQLite.
