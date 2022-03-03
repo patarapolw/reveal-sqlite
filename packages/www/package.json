@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "reveal.js": "^4.1.1",
+    "reveal.js": "^4.3.0",
     "sql.js": "^1.5.0"
   },
   "devDependencies": {
